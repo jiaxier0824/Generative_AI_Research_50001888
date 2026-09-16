@@ -9,7 +9,3 @@ I would store general research files, such as literature review documents, analy
 3. Why is it important to have a good naming convention?
 
 A good naming convention makes files easier to identify, organise and find, especially when a project contains many documents and different versions. It also helps team members understand what each file contains and reduces confusion when working collaboratively.
-
-4. Under what scenarios, creating a new branch would be useful?
-
-Creating a new branch is useful when developing a new feature or making changes without affecting the main branch. In team projects, different members can work on separate branches at the same time without interfering with each other. After the changes are reviewed and tested, they can be merged back into the main branch.
